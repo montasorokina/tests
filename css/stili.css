@@ -1,1 +1,11 @@
-
+.kaste{
+  background: gray;
+  color: white;
+  widith: 20%;
+  padding: 5px;
+  border: 1px solid black;
+   border-radius:5px;
+  display: inline-block;
+  text-decoration: none;
+  text-aling: center;
+}
